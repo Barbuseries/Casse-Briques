@@ -15,7 +15,7 @@ Lancer cassebrique.exe dans `Ressources` avec Wine.
 # English
 (Casse-briques means "Breakout clone")
 
-Twelfth grade's end-year project (2013).
+Twelfth grade's end-of-year project (2013).
 
 ## Run the game
 ### Windows

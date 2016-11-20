@@ -1,0 +1,159 @@
+Musiques :
+
+Toutes les musiques ont ete acquises sur www.jamendo.com .
+
+
+Sons :
+
+Tous les sons ont ete faits a partir de l'application Sfxr de Dr Petter.
+
+
+Font :
+
+La police d'ecriture a ete acquise sur www.pizzadude.dk .
+
+
+
+
+
+
+
+
+
+
+Commandes:
+
+
+- Durant tout le jeu, les touches A et D peuvent remplacer les fleches gauche et droite respectivement.
+
+- Maintenir la touche controle (gauche) permet d'accelerer la vitesse d'apparition et d'effacement du texte. Cela accelere aussi les comptes a rebourd et les credits.
+
+
+
+En jeu :
+
+- Les fleches gauche et droite pour se deplacer.
+
+- 'Entree' ou 'Espace' pour (re)commencer ou mettre le jeu en pause.
+
+- 'S' pour mettre/couper le son.
+
+- Lorsque vous finissez un niveau du premier ou du deuxieme coup, vous gagnez une balle.
+
+- Lorsque vous perdez une vie, vous perdez aussi une balle.
+
+- En jeu libre, les vies sont infinies et les balles ne peuvent pas etre perdues.
+
+- En mode histoire, vous avez le nom de chaque stage ainsi que l'acces aux deux derniers stages du jeu.
+
+- Chaque brique touchee rapporte 100 points.
+
+- Chaque niveau termine rapporte 10 000 points si aucune vie n'a ete perdue, 5 000 si une vie a ete perdue, 0 sinon.
+
+- Tous les 5 niveaux, une vie est gagnee. 
+
+- Tous les 10 niveaux, une balle est gagnee (definitivement).
+
+- Tous les 100 000 points, une vie est gagnee.
+
+- On peut recommencer un stage apres l'avoir perdu mais le score ainsi que toutes les balles acquises (hors balles definitives) sont remis a 0. 
+
+- On peut quitter une partie en cours en appuyant sur la touche Suppr durant une pause.
+
+- Trois bonus differents :
+	*Le "poing" : augmente les degats de la balle
+	*L'"aile" : augmente la vitesse de la raquette
+	*La "double fleche" : augmente la taille de la raquette.
+
+- Le joueur peut beneficier d'un bonus deux fois au maximum.
+
+- Lorsque le joueur perd une vie, il perd aussi un bonus (au hasard).
+
+- Lorsque l'ecran est en pause, vous avez la possibilite de rentrer un code : seules les lettres (sauf le 'S') peuvent etre rentrees.
+
+- Entre chaque touches, vous avez un delai de 1 seconde pour saisir la touche suivante.
+
+- Le code est valide par un son.
+
+- Lorsque vous subissez un GAME OVER, il se peut que vous ayez a rentrer votre nom dans le Hall of Shame.
+
+- Si, par contre, vous reussissez a finir le jeu, il se peut que vous ayez a rentrer votre nom dans le Hall of Fame.
+
+- Chaque niveau termine en mode histoire peut etre rejoue ou edite a volonte dans les modes correspondants (Charger Niveau et Editeur de Niveau) sauf certaines exceptions.
+
+
+
+
+Menu Edition :
+
+- Touche 'R' pour retourner a l'ecran precedent.
+
+- Touche 'C' pour editer un niveau deja sauvergarde.
+
+- Touche 'S' pour entrer le nom du niveau (en appuyant sur Entree, le niveau est sauvegarde sauf si il n'y a pas de nom).
+
+- Touche 'Maj' ('Shift') pour ecrire en majuscule (maintenir).
+
+- Touche 'Suppr' pour annuler l'entree du nom.
+
+- Clic gauche pour augmenter la vie d'une brique de 1 (peut etre maintenu).
+
+- Clic droit pour diminuer la vie d'une brique de 1 (peut etre maintenu).
+
+- Sur l'ecran de selection d'un niveau, la touche Suppr efface le niveau selectionne.
+
+ 
+
+ 
+
+Menu Chargement :
+
+- Touche 'R' pour retourner a l'ecran precedent.
+
+- Les fleches droite et gauche pour naviguer entre les differentes pages.
+
+- Touche 'N' pour aller directement a la derniere page.
+
+- Touche 'B' pour retourner a la premiere page.
+
+- Clic gauche pour selectionner un niveau. Cliquer a nouveau pour le lancer.
+
+ 
+Menu Commandes :
+
+- Touche 'R' pour retourner a l'ecran precedent.
+ 
+
+Menu Options:
+
+- Touche 'R' pour retourner a l'ecran precedent.
+
+- Faites varier les curseurs (Rouge, Vert, Bleu) permet de modifier la couleur du fond.
+
+- La couleur correspondante s'affiche dans un carre en dessous de "Couleur"
+
+- Cliquer sur "Charger une image" permet de charger une image a partir de celles sauvegardees dans le dossier "fonds". L'image doit faire au moins 640*480 pixels, etre au format PNG et son nom doit etre inscrit dans le fichier "mercidenepaseffacercefichier". 
+
+#La derniere ligne du fichier ne doit pas etre vide : pensez a appuyer sur 'Entree'.
+
+	- Les fleches droite et gauche pour naviguer entre les differentes images.
+
+	- Touche 'N' pour aller directement a la derniere image.
+
+	- Touche 'B' pour retourner a la premiere image.
+
+	- 'Entree' pour selectionner une image.
+
+	- Pensez a cliquer sur "Image" pour definir le fond comme tel. Sinon, cliquez sur "Couleur".
+
+- Touche 'Entree' pour sauvegarder les options.
+
+
+Hall of Fame/Shame :
+
+- Touche 'R' pour retourner a l'ecran precedent.
+
+
+Credits:
+
+- Touche 'Suppr' pour passer les credits (y compris les credits a la fin de jeu).

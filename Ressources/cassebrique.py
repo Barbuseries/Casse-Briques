@@ -789,7 +789,7 @@ class Jeu:
         self.balleseff=[]
         self.gameoversound=pygame.mixer.Sound("sons/gameover.wav")
         self.pause=False
-        self.stage=20
+        self.stage=1
         self.nombrestages=0
         self.pointslimites=0
         self.arretvolontaire=False
